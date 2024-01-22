@@ -23,7 +23,7 @@
 		<spring-boot.version>3.1.7</spring-boot.version>
 		<maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
 		<twitter4j-stream.version>4.0.7</twitter4j-stream.version>
-		<lombok.version>1.18.16</lombok.version>
+		<lombok.version>1.18.22</lombok.version>
 	</properties>
 
 	<dependencyManagement>
